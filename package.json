@@ -1,0 +1,19 @@
+{
+  "name": "@abhishek_ranjan/primenumber",
+  "version": "0.0.1",
+  "description": "finding number is prime or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekRanjan8051/npm_package_primeornot.git"
+  },
+  "author": "@AbhishekRanjan8051",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekRanjan8051/npm_package_primeornot/issues"
+  },
+  "homepage": "https://github.com/AbhishekRanjan8051/npm_package_primeornot#readme"
+}
