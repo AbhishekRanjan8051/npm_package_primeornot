@@ -1,6 +1,6 @@
 {
   "name": "@abhishek_ranjan/primenumber",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "finding number is prime or not",
   "main": "index.js",
   "scripts": {
